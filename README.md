@@ -12,6 +12,17 @@ The MvtText framework works as follows: (a) Movement data is modeled dynamically
 
 <img style="max-width: 100%;" src="https://github.com/swerizwan/MvtText/blob/main/resources/Fig2.png" alt="VERHM Overview">
 
+# Installation
+
+```
+conda create python=3.9 --name MvtText
+conda activate MvtText
+```
+Install the requirements
+```
+pip install -r requirements.txt
+```
+
 # Demo
 
 ```
