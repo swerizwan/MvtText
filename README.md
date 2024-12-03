@@ -94,9 +94,6 @@ Qualitative results demonstrating MvtText's capability to synthesize human movem
   </tr>
 </table>
 
-
-<img style="max-width: 100%;" src="https://github.com/swerizwan/MvtText/blob/main/resources/qualitative.png" alt="VERHM Overview">
-
 ## Datasets
 
 We evaluated MvtText using three key datasets for text-driven human movement synthesis:
