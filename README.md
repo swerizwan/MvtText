@@ -1,4 +1,4 @@
-# MvtText: AutoEncoder and Latent Diffusion for Text-Driven Body Language Synthesis
+![image](https://github.com/user-attachments/assets/993af1fa-2a34-4079-9140-1040cf747168)# MvtText: AutoEncoder and Latent Diffusion for Text-Driven Body Language Synthesis
 
 <img src="https://camo.githubusercontent.com/2722992d519a722218f896d5f5231d49f337aaff4514e78bd59ac935334e916a/68747470733a2f2f692e696d6775722e636f6d2f77617856496d762e706e67" alt="Oryx Video-ChatGPT" data-canonical-src="https://i.imgur.com/waxVImv.png" style="max-width: 100%;">
 
@@ -36,6 +36,64 @@ python -m fit --dir /home/abbas/motiontext/outcomes/motiontext/HumanML3D/samples
 ```
 
 Qualitative results demonstrating MvtText's capability to synthesize human movement for body language synthesis from textual descriptions.
+
+<table>
+  <tr>
+    <td style="text-align: center;">
+      <p>A person kicks with left leg.</p>
+      <img width="165" src="https://github.com/swerizwan/MvtText/blob/main/resources/kicking.gif" alt="Happy">
+    </td>
+    <td style="text-align: center;">
+      <p>A person dropped to left knees.</p>
+      <img width="165" src="https://github.com/swerizwan/MvtText/blob/main/resources/kneeleft.gif" alt="Frustrated">
+    </td>
+    <td style="text-align: center;">
+      <p>A person is diving into the pool.</p>
+      <img width="165" src="https://github.com/swerizwan/MvtText/blob/main/resources/diving.gif" alt="Sad">
+    </td>
+    <td style="text-align: center;">
+      <p>A person is dancing joyfully.</p>
+      <img width="165" src="https://github.com/swerizwan/MvtText/blob/main/resources/dancing.gif" alt="Angry">
+    </td>
+  </tr>
+    <tr>
+    <td style="text-align: center;">
+      <p>A person raises his right hand and waves.</p>
+      <img width="165" src="https://github.com/swerizwan/MvtText/blob/main/resources/waves.gif" alt="Happy">
+    </td>
+    <td style="text-align: center;">
+      <p>A person jumps with both feet together.</p>
+      <img width="165" src="https://github.com/swerizwan/MvtText/blob/main/resources/jumped.gif" alt="Frustrated">
+    </td>
+    <td style="text-align: center;">
+      <p>A person stretches his arms above his head.</p>
+      <img width="165" src="https://github.com/swerizwan/MvtText/blob/main/resources/stretches.gif" alt="Sad">
+    </td>
+    <td style="text-align: center;">
+      <p>A person kneels down on his right knee.</p>
+      <img width="165" src="https://github.com/swerizwan/MvtText/blob/main/resources/kneeright.gif" alt="Angry">
+    </td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">
+      <p>A person walks forward with waving arms.</p>
+      <img width="165" src="https://github.com/swerizwan/MvtText/blob/main/resources/walking.gif" alt="Happy">
+    </td>
+    <td style="text-align: center;">
+      <p>A person crawls around in a circle.</p>
+      <img width="165" src="https://github.com/swerizwan/MvtText/blob/main/resources/circle.gif" alt="Frustrated">
+    </td>
+    <td style="text-align: center;">
+      <p>A person performs a star jump.</p>
+      <img width="165" src="https://github.com/swerizwan/MvtText/blob/main/resources/starjump.gif" alt="Sad">
+    </td>
+    <td style="text-align: center;">
+      <p>A person performs a cartwheel.</p>
+      <img width="165" src="https://github.com/swerizwan/MvtText/blob/main/resources/cartwheel.gif" alt="Angry">
+    </td>
+  </tr>
+</table>
+
 
 <img style="max-width: 100%;" src="https://github.com/swerizwan/MvtText/blob/main/resources/qualitative.png" alt="VERHM Overview">
 
