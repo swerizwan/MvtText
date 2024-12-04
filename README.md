@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/993af1fa-2a34-4079-9140-1040cf747168)# MvtText: AutoEncoder and Latent Diffusion for Text-Driven Body Language Synthesis
+# MvtText: AutoEncoder and Latent Diffusion for Text-Driven Body Language Synthesis
 
 <img src="https://camo.githubusercontent.com/2722992d519a722218f896d5f5231d49f337aaff4514e78bd59ac935334e916a/68747470733a2f2f692e696d6775722e636f6d2f77617856496d762e706e67" alt="Oryx Video-ChatGPT" data-canonical-src="https://i.imgur.com/waxVImv.png" style="max-width: 100%;">
 
