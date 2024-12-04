@@ -111,12 +111,6 @@ python -m train --cfg configs/config_motiontext_humanml3d.yaml --cfg_assets conf
 python -m train --cfg configs/config_motiontext_humanact12.yaml --cfg_assets configs/assets.yaml --batch_size 64 --nodebug
 python -m train --cfg configs/config_vae_kit.yaml --cfg_assets configs/assets.yaml --batch_size 32 --nodebug
 ```
-- **Evaluate**
-```
-python -m test_humanml3d --cfg configs/config_motiontext_humanml3d.yaml --cfg_assets configs/assets.yaml
-python -m test_humanact12 --cfg configs/config_motiontext_humanact12.yaml --cfg_assets configs/assets.yaml
-python -m test_kit --cfg configs/config_vae_kit.yaml --cfg_assets configs/assets.yaml
-```
 
 ## Running the Demo
 
